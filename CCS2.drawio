@@ -1,9 +1,98 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="fyct9yVQSAlBd45uMIMy">
-    <mxGraphModel>
+    <mxGraphModel dx="1071" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le7ZTcB5aHkPA9SLhq5M-1" target="Le7ZTcB5aHkPA9SLhq5M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Le7ZTcB5aHkPA9SLhq5M-2" target="Le7ZTcB5aHkPA9SLhq5M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le7ZTcB5aHkPA9SLhq5M-2" target="Le7ZTcB5aHkPA9SLhq5M-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le7ZTcB5aHkPA9SLhq5M-2" target="Le7ZTcB5aHkPA9SLhq5M-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-2" value="Analisis&lt;br&gt;&lt;div&gt;Injeksi Karbon&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Le7ZTcB5aHkPA9SLhq5M-4" target="Le7ZTcB5aHkPA9SLhq5M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-4" value="Analisis&lt;div&gt;&lt;i&gt;Site Monitoring&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le7ZTcB5aHkPA9SLhq5M-6" target="Le7ZTcB5aHkPA9SLhq5M-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-6" value="Analisis&lt;div&gt;Ekstraksi dan Transportasi Karbon&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-8" value="&lt;b&gt;2D GIS&lt;/b&gt;&lt;div&gt;(Situasi dan&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Titik Bor)&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="192" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-9" value="&lt;b&gt;3D GIS&lt;/b&gt;&lt;div&gt;(Lapisan, Trajectory,&lt;/div&gt;&lt;div&gt;Titik Injeksi)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="279" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Le7ZTcB5aHkPA9SLhq5M-14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="154" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="501" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-14" value="Sebaran Titik Monitoring&amp;nbsp;&lt;div&gt;(GNSS)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Le7ZTcB5aHkPA9SLhq5M-23" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="154" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Le7ZTcB5aHkPA9SLhq5M-24" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="154" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-23" value="2D GIS&lt;div&gt;(Situasi, jalur pipa&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="723" y="192" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-24" value="3D GIS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="723" y="279" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-25" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-27" value="Analisis&lt;div&gt;Injeksi Karbon&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-28" value="Analisis&lt;div&gt;&lt;i&gt;Site Monitoring&lt;/i&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-29" value="Analisis&lt;div&gt;Ekstraksi Karbon&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
