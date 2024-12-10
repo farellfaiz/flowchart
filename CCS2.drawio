@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="3">
   <diagram name="Page-1" id="fyct9yVQSAlBd45uMIMy">
     <mxGraphModel dx="1071" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,10 +75,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-23" value="2D GIS&lt;div&gt;(Situasi, jalur pipa&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-23" value="&lt;b&gt;2D GIS&lt;/b&gt;&lt;div&gt;(Situasi, jalur pipa)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="723" y="192" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-24" value="3D GIS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Le7ZTcB5aHkPA9SLhq5M-24" value="&lt;b&gt;3D GIS&lt;/b&gt;&lt;div&gt;(Lapisan, Trajectory,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Titik Ekstraksi)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="723" y="279" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Le7ZTcB5aHkPA9SLhq5M-25" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -92,6 +92,93 @@
         </mxCell>
         <mxCell id="Le7ZTcB5aHkPA9SLhq5M-29" value="Analisis&lt;div&gt;Ekstraksi Karbon&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="639" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="V5uzxpANDWLaOF3z4WjU">
+    <mxGraphModel dx="910" dy="459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-0" />
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-1" parent="u3TaS5QHCRDKCy16oOBK-0" />
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u3TaS5QHCRDKCy16oOBK-1" source="u3TaS5QHCRDKCy16oOBK-3" target="u3TaS5QHCRDKCy16oOBK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-3" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="68" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="u3TaS5QHCRDKCy16oOBK-1" source="u3TaS5QHCRDKCy16oOBK-7" target="u3TaS5QHCRDKCy16oOBK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u3TaS5QHCRDKCy16oOBK-1" source="u3TaS5QHCRDKCy16oOBK-7" target="u3TaS5QHCRDKCy16oOBK-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-7" value="Analisis&lt;br&gt;&lt;div&gt;Injeksi Karbon&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="239" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="u3TaS5QHCRDKCy16oOBK-1" source="u3TaS5QHCRDKCy16oOBK-9" target="u3TaS5QHCRDKCy16oOBK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-9" value="Analisis&lt;div&gt;&lt;i&gt;Site Monitoring&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="439" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u3TaS5QHCRDKCy16oOBK-1" source="u3TaS5QHCRDKCy16oOBK-11" target="u3TaS5QHCRDKCy16oOBK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-11" value="Analisis&lt;div&gt;Ekstraksi dan Transportasi Karbon&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="639" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-12" value="&lt;b&gt;3D GIS&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(Lapisan, Trajectory Injeksi dan Ekstraksi, Titik Injeksi dan Ekstraksi)&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="322" y="192" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u3TaS5QHCRDKCy16oOBK-1" target="u3TaS5QHCRDKCy16oOBK-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="154" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="501" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-15" value="&lt;b&gt;2D GIS&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(Situasi,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Titik Bor Injeksi dan Ekstraksi, Jalur Pipa)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="524" y="192" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u3TaS5QHCRDKCy16oOBK-1" target="u3TaS5QHCRDKCy16oOBK-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="154" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-18" value="&lt;div&gt;&lt;b&gt;Rencana Monitoring&lt;/b&gt;&lt;/div&gt;Sebaran Titik GNSS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="723" y="192" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-20" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="839" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-21" value="Analisis Subsurface" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="239" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-22" value="Analisis&lt;div&gt;Surface&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="439" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3TaS5QHCRDKCy16oOBK-23" value="Analisis Monitoring" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="u3TaS5QHCRDKCy16oOBK-1">
+          <mxGeometry x="639" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lDh_-id4ndhCp165ZWeb" name="Page-3">
+    <mxGraphModel dx="1310" dy="859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ty4kx6B2cm6-nt9_NCol-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-4" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
