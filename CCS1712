@@ -1,9 +1,172 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="3">
   <diagram name="Page-1" id="BsaOOCt_l_CXzrOcMUQ5">
-    <mxGraphModel>
+    <mxGraphModel dx="1820" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-1" target="tgcUTNVI5DqW6LPiFM2Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-1" target="tgcUTNVI5DqW6LPiFM2Q-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="100" />
+              <mxPoint x="197" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-1" target="tgcUTNVI5DqW6LPiFM2Q-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="100" />
+              <mxPoint x="607" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-2" target="tgcUTNVI5DqW6LPiFM2Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-2" value="Analisis Ekstraksi&lt;div&gt;Karbon&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-4" target="tgcUTNVI5DqW6LPiFM2Q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-4" value="Model Multidimensi&lt;div&gt;Perencanaan Injeksi&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-7" target="tgcUTNVI5DqW6LPiFM2Q-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-7" value="Rekap prosedur&lt;div&gt;analisis dan pembuatan model ekstraksi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-14" value="Prosedur Analisis Spasial&lt;div&gt;dan Pembuatan Model untuk&lt;/div&gt;&lt;div&gt;Perencanaan Ekstraksi Karbon&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="460" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="tgcUTNVI5DqW6LPiFM2Q-17" target="tgcUTNVI5DqW6LPiFM2Q-19" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-17" value="Analisis Monitoring Site" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="tgcUTNVI5DqW6LPiFM2Q-19" target="tgcUTNVI5DqW6LPiFM2Q-21" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-19" value="Model Multidimensi&lt;div&gt;Perencanaan Monitoring&lt;/div&gt;&lt;div&gt;Site&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="tgcUTNVI5DqW6LPiFM2Q-21" target="tgcUTNVI5DqW6LPiFM2Q-22" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-21" value="Rekap prosedur&lt;div&gt;analisis dan pembuatan model monitoring&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="608" y="540" />
+              <mxPoint x="400" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-22" value="Prosedur Analisis Spasial&lt;div&gt;dan Pembuatan Model untuk&lt;/div&gt;&lt;div&gt;Perencanaan Monitoring Site&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="tgcUTNVI5DqW6LPiFM2Q-24" target="tgcUTNVI5DqW6LPiFM2Q-26" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-24" value="Analisis Injeksi&lt;div&gt;Karbon&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="tgcUTNVI5DqW6LPiFM2Q-26" target="tgcUTNVI5DqW6LPiFM2Q-28" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-26" value="Model Multidimensi&lt;div&gt;Perencanaan Injeksi&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="tgcUTNVI5DqW6LPiFM2Q-28" target="tgcUTNVI5DqW6LPiFM2Q-29" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-28" value="Rekap prosedur&lt;div&gt;analisis dan pembuatan model injeksi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgcUTNVI5DqW6LPiFM2Q-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="198" y="540" />
+              <mxPoint x="400" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgcUTNVI5DqW6LPiFM2Q-29" value="Prosedur Analisis Spasial&lt;div&gt;dan Pembuatan Model untuk&lt;/div&gt;&lt;div&gt;Perencanaan Injeksi Karbon&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aR-07a7kSV-ry5GfO8hM-1" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380.5" y="570" width="39" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zep59uUOT5rAZdI_QLjs" name="Page-2">
+    <mxGraphModel dx="510" dy="859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2jPpFJ4Ki23VMyfBJWU-2" target="U2jPpFJ4Ki23VMyfBJWU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-2" value="Integrasi Data dan Peta Multidimensi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2jPpFJ4Ki23VMyfBJWU-4" target="U2jPpFJ4Ki23VMyfBJWU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-4" value="Model Multidimensi&lt;div&gt;Perencanaan CCS Onshore&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="180" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2jPpFJ4Ki23VMyfBJWU-6" target="U2jPpFJ4Ki23VMyfBJWU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-6" value="Rekap prosedur&lt;div&gt;keseluruhan&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2jPpFJ4Ki23VMyfBJWU-8" target="U2jPpFJ4Ki23VMyfBJWU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-8" value="Prosedur Analisis Spasial&lt;div&gt;dan Pembuatan Model untuk&lt;/div&gt;&lt;div&gt;Perencanaan CCS Onshore&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="400" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-9" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2jPpFJ4Ki23VMyfBJWU-10" target="U2jPpFJ4Ki23VMyfBJWU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2jPpFJ4Ki23VMyfBJWU-10" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="544" y="-10" width="39" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NYwxWL1Ry_wT7KFqZwOr" name="Page-3">
+    <mxGraphModel dx="910" dy="859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H30XURjZvDnTq-mJjgX8-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="-8" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
