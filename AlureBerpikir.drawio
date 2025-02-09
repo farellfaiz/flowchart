@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="dwhBAW1VhLyBVlEQXDRv">
-    <mxGraphModel>
+    <mxGraphModel dx="1071" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fLJ2wi9Sd6id7qLqi0e--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLJ2wi9Sd6id7qLqi0e--1" target="fLJ2wi9Sd6id7qLqi0e--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLJ2wi9Sd6id7qLqi0e--1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLJ2wi9Sd6id7qLqi0e--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLJ2wi9Sd6id7qLqi0e--4" target="fLJ2wi9Sd6id7qLqi0e--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLJ2wi9Sd6id7qLqi0e--4" value="Perumusan&lt;div&gt;Latar Belakang&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLJ2wi9Sd6id7qLqi0e--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLJ2wi9Sd6id7qLqi0e--6" target="fLJ2wi9Sd6id7qLqi0e--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLJ2wi9Sd6id7qLqi0e--6" value="Latar&lt;div&gt;Belakang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLJ2wi9Sd6id7qLqi0e--8" value="Perumusan&lt;div&gt;Gagasan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
