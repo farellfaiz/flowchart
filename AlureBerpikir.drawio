@@ -2299,7 +2299,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="455U6D9rnsPIMqgysYQb-8" value="Visi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EBBAB0;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
+        <mxCell id="455U6D9rnsPIMqgysYQb-8" value="Visi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
           <mxGeometry x="520" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="455U6D9rnsPIMqgysYQb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="455U6D9rnsPIMqgysYQb-1" source="455U6D9rnsPIMqgysYQb-11" target="455U6D9rnsPIMqgysYQb-13" edge="1">
@@ -2318,7 +2318,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="455U6D9rnsPIMqgysYQb-13" value="Misi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EBBAB0;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
+        <mxCell id="455U6D9rnsPIMqgysYQb-13" value="Misi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
           <mxGeometry x="160" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="455U6D9rnsPIMqgysYQb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="455U6D9rnsPIMqgysYQb-1" source="455U6D9rnsPIMqgysYQb-16" target="455U6D9rnsPIMqgysYQb-18" edge="1">
@@ -2337,7 +2337,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="455U6D9rnsPIMqgysYQb-18" value="Strategi&lt;div&gt;Implementasi&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EBBAB0;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
+        <mxCell id="455U6D9rnsPIMqgysYQb-18" value="Strategi&lt;div&gt;Implementasi&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
           <mxGeometry x="520" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="455U6D9rnsPIMqgysYQb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="455U6D9rnsPIMqgysYQb-1" source="455U6D9rnsPIMqgysYQb-20" target="455U6D9rnsPIMqgysYQb-22" edge="1">
@@ -2356,7 +2356,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="455U6D9rnsPIMqgysYQb-22" value="Skema" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EBBAB0;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
+        <mxCell id="455U6D9rnsPIMqgysYQb-22" value="Skema" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
           <mxGeometry x="520" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="455U6D9rnsPIMqgysYQb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="455U6D9rnsPIMqgysYQb-1" source="455U6D9rnsPIMqgysYQb-24" target="455U6D9rnsPIMqgysYQb-26" edge="1">
@@ -2375,7 +2375,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="455U6D9rnsPIMqgysYQb-26" value="Program" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EBBAB0;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
+        <mxCell id="455U6D9rnsPIMqgysYQb-26" value="Program" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
           <mxGeometry x="160" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="455U6D9rnsPIMqgysYQb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="455U6D9rnsPIMqgysYQb-1" source="455U6D9rnsPIMqgysYQb-28" target="455U6D9rnsPIMqgysYQb-41" edge="1">
@@ -2400,7 +2400,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="455U6D9rnsPIMqgysYQb-32" value="Hasil&amp;nbsp;&lt;div&gt;Risk-Mitigation&lt;/div&gt;&lt;div&gt;Analysis&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EBBAB0;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
+        <mxCell id="455U6D9rnsPIMqgysYQb-32" value="Hasil&amp;nbsp;&lt;div&gt;Risk-Mitigation&lt;/div&gt;&lt;div&gt;Analysis&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
           <mxGeometry x="520" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="455U6D9rnsPIMqgysYQb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="455U6D9rnsPIMqgysYQb-1" source="455U6D9rnsPIMqgysYQb-34" target="455U6D9rnsPIMqgysYQb-36" edge="1">
@@ -2416,7 +2416,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="455U6D9rnsPIMqgysYQb-36" value="Strategi&lt;div&gt;Manajemen&lt;/div&gt;&lt;div&gt;Organisasi&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EBBAB0;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
+        <mxCell id="455U6D9rnsPIMqgysYQb-36" value="Strategi&lt;div&gt;Manajemen&lt;/div&gt;&lt;div&gt;Organisasi&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
           <mxGeometry x="160" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="455U6D9rnsPIMqgysYQb-37" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E4E4E4;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
@@ -2435,7 +2435,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="455U6D9rnsPIMqgysYQb-41" value="Organogram" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EBBAB0;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
+        <mxCell id="455U6D9rnsPIMqgysYQb-41" value="Organogram" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" parent="455U6D9rnsPIMqgysYQb-1" vertex="1">
           <mxGeometry x="160" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
