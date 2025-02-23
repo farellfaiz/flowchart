@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="11">
   <diagram name="Full" id="dwhBAW1VhLyBVlEQXDRv">
     <mxGraphModel dx="5650" dy="2785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -521,6 +521,240 @@
         </mxCell>
         <mxCell id="2jQrUnbLPGqFbd-5jLZm-178" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="2800" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Aktual" id="UC4GlLGGYMlabvd36adh">
+    <mxGraphModel dx="1933" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-0" />
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-1" parent="GTEH6GR-VodlqrfwAdMl-0" />
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-50" target="GTEH6GR-VodlqrfwAdMl-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-50" value="Analisis Kondisi&lt;div&gt;KM ITB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="780" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-52" target="GTEH6GR-VodlqrfwAdMl-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-52" value="Analisis Kondisi&lt;div&gt;Eksternal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="780" y="626" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-54" target="GTEH6GR-VodlqrfwAdMl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-54" value="Importance-&lt;div&gt;Performance&lt;/div&gt;&lt;div&gt;Analysis&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1030" y="486" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-56" target="GTEH6GR-VodlqrfwAdMl-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-56" value="Tinjauan Kondisi&lt;div&gt;HMPS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1220" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-58" target="GTEH6GR-VodlqrfwAdMl-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-58" value="Tinjauan Kondisi&lt;div&gt;UKM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1220" y="231" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-60" target="GTEH6GR-VodlqrfwAdMl-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-60" value="Tinjauan Kondisi&lt;div&gt;TPB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1220" y="312" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-62" target="GTEH6GR-VodlqrfwAdMl-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-62" value="Tinjauan Kondisi&lt;div&gt;Multikampus&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1220" y="71" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-64" target="GTEH6GR-VodlqrfwAdMl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-64" value="Aspirasi dan&lt;div&gt;Kondisi&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1030" y="567" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-67" target="GTEH6GR-VodlqrfwAdMl-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-67" target="GTEH6GR-VodlqrfwAdMl-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-67" value="Survei Internal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1220" y="526" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-69" target="GTEH6GR-VodlqrfwAdMl-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-69" value="Hasil Wawancara&lt;div&gt;Stakeholder&lt;/div&gt;&lt;div&gt;Multikampus&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1400" y="71" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-71" target="GTEH6GR-VodlqrfwAdMl-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-71" value="Hasil Wawancara&lt;div&gt;Stakeholder&lt;/div&gt;&lt;div&gt;HMPS&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1400" y="151" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-73" target="GTEH6GR-VodlqrfwAdMl-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-73" value="Hasil Wawancara&lt;div&gt;Stakeholder&lt;/div&gt;&lt;div&gt;UKM&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1400" y="231" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-75" target="GTEH6GR-VodlqrfwAdMl-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-75" value="Hasil Wawancara&lt;div&gt;Stakeholder&lt;/div&gt;&lt;div&gt;TPB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1400" y="312" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-77" target="GTEH6GR-VodlqrfwAdMl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-77" value="Hasil Tinjauan&lt;div&gt;Kondisi TPB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1030" y="312" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-79" target="GTEH6GR-VodlqrfwAdMl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-79" value="Hasil Tinjauan&lt;div&gt;Kondisi UKM&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1030" y="231" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-81" target="GTEH6GR-VodlqrfwAdMl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-81" value="Hasil Tinjauan&lt;div&gt;Kondisi HMPS&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1030" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-83" target="GTEH6GR-VodlqrfwAdMl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-83" value="Hasil Tinjauan&lt;div&gt;Kondisi Multikampus&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1030" y="71" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-85" target="QfMsQA5ozuTYvi8_kYy3-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-85" value="Kondisi KM ITB" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="610" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-87" target="QfMsQA5ozuTYvi8_kYy3-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-87" value="Kondisi&lt;div&gt;Eksternal&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="610" y="626" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-89" target="GTEH6GR-VodlqrfwAdMl-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-89" value="Tinjauan Umum Global" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1227" y="681" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-91" target="GTEH6GR-VodlqrfwAdMl-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-91" value="Tinjauan Nasional&lt;div&gt;Sektor Politik, Hukum, HAM, dan Kebijakan Publik&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1407" y="536" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-93" target="GTEH6GR-VodlqrfwAdMl-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-93" value="Tinjauan Nasional&lt;div&gt;Sektor Ekonomi, Bisnis, dan Investasi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1407" y="626" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-95" target="GTEH6GR-VodlqrfwAdMl-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-95" value="Tinjauan Nasional&lt;div&gt;Sektor Sosial, Pendidikan, Kesenian, dan Kebudayaan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1407" y="716" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-97" target="GTEH6GR-VodlqrfwAdMl-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-97" value="Tinjauan Nasional&lt;div&gt;Sektor Sains, Teknologi,&lt;/div&gt;&lt;div&gt;Industri, dan Inovasi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1407" y="806" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-99" target="GTEH6GR-VodlqrfwAdMl-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-99" value="Tinjauan Nasional&lt;div&gt;Sektor Lingkungan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1407" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-101" target="GTEH6GR-VodlqrfwAdMl-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-101" value="Tinjauan Nasional&lt;div&gt;Sektor Lingkungan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1407" y="986" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-103" target="GTEH6GR-VodlqrfwAdMl-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-103" value="Tinjauan Umum&lt;br&gt;&lt;div&gt;Regional&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1227" y="841" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-105" target="GTEH6GR-VodlqrfwAdMl-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-105" value="Tinjauan Umum&lt;br&gt;&lt;div&gt;ITB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1227" y="921" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-107" target="GTEH6GR-VodlqrfwAdMl-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-107" value="Tinjauan Nasional&lt;div&gt;per Sektor&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1227" y="761" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-109" target="GTEH6GR-VodlqrfwAdMl-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-109" value="Hasil Tinjauan&lt;div&gt;Global&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1031" y="681" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-111" target="GTEH6GR-VodlqrfwAdMl-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-111" value="Hasil Tinjauan&lt;div&gt;Nasional&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1031" y="761" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-113" target="GTEH6GR-VodlqrfwAdMl-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-113" value="Hasil Tinjauan&lt;div&gt;Regional&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1031" y="841" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-115" target="GTEH6GR-VodlqrfwAdMl-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-115" value="Hasil Tinjauan&lt;div&gt;ITB&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1031" y="921" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-129" target="GTEH6GR-VodlqrfwAdMl-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-129" value="Tinjauan Kondisi&lt;div&gt;Kabinet&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#134F5C;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1220" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-131" target="GTEH6GR-VodlqrfwAdMl-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-131" value="Hasil Wawancara&lt;div&gt;Stakeholder&lt;/div&gt;&lt;div&gt;Kabinet&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1400" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTEH6GR-VodlqrfwAdMl-1" source="GTEH6GR-VodlqrfwAdMl-133" target="GTEH6GR-VodlqrfwAdMl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTEH6GR-VodlqrfwAdMl-133" value="Hasil Tinjauan&lt;div&gt;Kondisi Kabinet&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F5DFDB;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="1030" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfMsQA5ozuTYvi8_kYy3-0" value="B" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" vertex="1" parent="GTEH6GR-VodlqrfwAdMl-1">
+          <mxGeometry x="480" y="410" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
